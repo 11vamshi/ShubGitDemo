@@ -18,6 +18,7 @@ public class IceDemo {
 			}
 			else {
 				System.out.println(i);
+				System.out.println("Change 1");
 				continue;
 				}
 			}
