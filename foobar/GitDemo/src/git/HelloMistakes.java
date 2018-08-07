@@ -1,6 +1,6 @@
 package git;
 
-public class HelloMistakkes {
+public class HelloMistakes {
 	
 	public static void main(String args[]) {
 	System.out.println("Hello World"); 
